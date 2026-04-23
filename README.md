@@ -1,16 +1,20 @@
-## Hi there 👋
+# ¡Hola! Soy Jhossephy 👋
 
-<!--
-**Jhossephy02/Jhossephy02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Ingeniería de Software con IA en SENATI y co-fundador de **Yaku Studio**. Apasionado por transformar ideas en soluciones tecnológicas escalables mediante el desarrollo web y la inteligencia artificial.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+* **Frontend:** React, JavaScript, HTML5/CSS3
+* **Backend:** Node.js, Express, PHP/Laravel
+* **AI & Vision:** Python, YOLOv8 (Computer Vision)
+* **WebAR:** Mind.AR, 8th Wall
+* **Tools & DB:** MongoDB, Git, Docker, Arduino/IoT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Proyectos Destacados
+* **[Nombre de tu proyecto AR]:** Experiencia de Realidad Aumentada para catálogos interactivos.
+* **[Proyecto de Visión]:** Sistema de identificación por cámara utilizando modelos YOLOv8.
+* **[SaaS Initiative]:** Desarrollo de plataforma multi-tenant (en progreso con Yaku Studio).
+
+### 📫 Hablemos
+* **Upwork:** [Enlace a tu perfil de Upwork]
+* **Email:** [Tu correo profesional]
+* **LinkedIn:** [Tu enlace a LinkedIn]
