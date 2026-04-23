@@ -15,6 +15,5 @@ Estudiante de Ingeniería de Software con IA en SENATI y co-fundador de **Yaku S
 * **[SaaS Initiative]:** Desarrollo de plataforma multi-tenant (en progreso con Yaku Studio).
 
 ### 📫 Hablemos
-* **Upwork:** [Enlace a tu perfil de Upwork]
-* **Email:** [Tu correo profesional]
-* **LinkedIn:** [Tu enlace a LinkedIn]
+* **Email:** [mjhossephy@gmail.com]
+* **LinkedIn:** [www.linkedin.com/in/jhossephy-madueño-69a142342]
